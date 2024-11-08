@@ -28,12 +28,11 @@ temperature variations. The project highlights the potential of CMOS technology 
 counting mechanisms.
 [Leveraging CMOS for Advanced Bidirectional Counter Designs.pdf](https://github.com/user-attachments/files/17679646/Leveraging.CMOS.for.Advanced.Bidirectional.Counter.Designs.pdf)
  
-
 # Block diagram of CMOS Bidirectional Counter IP
 ![Block diagram of bidirectional counter](https://github.com/user-attachments/assets/861b7d9d-4fb3-424c-92db-4d2ea6a981c9)
 
 # Circuit diagram of CMOS Bidirectional Counter IP
-![1_pages-to-jpg-0001](https://github.com/user-attachments/assets/744635a7-c302-48d1-84d0-f4ea30df6d02)
+![1_pages-to-jpg-0001 (1)](https://github.com/user-attachments/assets/1bcf1f4f-3f9a-4b46-87c2-f5f3380db7ce)
 
 # Specifications
 CMOS (Complementary Metal-Oxide-Semiconductor) technology is widely used in modern digital and analog circuits, with process nodes ranging from 180nm to 7nm. It operates with supply voltages between 1.0V and 5.0V, depending on the process, and supports switching frequencies up to several GHz. CMOS circuits offer low static power consumption, with dynamic power consumption depending on the switching frequency. Key electrical characteristics include propagation delays between 1ns and 10ns, and threshold voltages typically between 0.3V and 0.7V. CMOS is used in applications such as logic gates, processors, and mixed-signal circuits.
@@ -134,8 +133,6 @@ A Bidirectional Counter is a digital counter capable of incrementing and decreme
 Note
 ======
 Please report any eSim installation related issue/error at "https://forums.fossee.in/"
-
-# Overview of CMOS Bidirectional Counter IP
 
 # Contributors
  * Dhayanesh G
